@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "F8P345AYUF.app.getsophos.sophosmobile",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
